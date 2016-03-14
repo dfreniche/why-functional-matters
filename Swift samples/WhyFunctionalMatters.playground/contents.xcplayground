@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Not everything is a variable'/>
+        <page name='parameters'/>
+        <page name='map'/>
+        <page name='filter'/>
+        <page name='reduce'/>
+        <page name='flatmap'/>
+        <page name='Using objects'/>
+    </pages>
+</playground>
